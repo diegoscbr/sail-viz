@@ -1,3 +1,9 @@
+# Progress log
+
+At the start of every session, read `progress/README.md` and the most recent file in `progress/` (if the folder exists) to catch up on recent work. If `progress/` does not exist yet, skip silently — the `/progress` skill will create it the first time it is invoked.
+
+Use the `/progress` skill to log a new session entry and keep the top-level `README.md` in sync with what has been pushed to `origin/main`.
+
 # gstack
 
 Use the `/browse` skill from gstack for all web browsing. Never use `mcp__claude-in-chrome__*` tools.
